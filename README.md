@@ -1,10 +1,13 @@
 <br><img src="https://media.giphy.com/media/ZOSPUwBTZhCyb5Xmsb/giphy.gif" width="990" height="300" />
 <br><img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="990" height="300" />
 
+<br clear="both">
 
-
-<img src="https://raw.githubusercontent.com/AbidHasanSajid/AbidHasanSajid/blob/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <a href="https://open.spotify.com/user/whtameizttfv6kec2kt16a4s4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
 # 💫 About Me:
