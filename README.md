@@ -1,5 +1,12 @@
 <br><img src="https://media.giphy.com/media/ZOSPUwBTZhCyb5Xmsb/giphy.gif" width="990" height="300" />
 <br><img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="990" height="300" />
+
+
+
+<img src="https://raw.githubusercontent.com/AbidHasanSajid/AbidHasanSajid/blob/output/snake.svg" alt="Snake animation" />
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Website(HTML), Discord bots.<br>👯 I’m looking to collaborate on Otaku!!<br>🤝 I’m looking for help with my friends and other people.<br>🌱 I’m currently learning Java,Html,python!<br>💬 Ask me about  any help.<br>⚡ Fun fact  I love Hentai.
 
