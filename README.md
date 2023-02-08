@@ -49,9 +49,11 @@
 
 
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/AbidHasanSajid/count.svg?"  />
-</div>
+
+
+<h3 align="left">Support</h3>
+<p><a href="https://ko-fi.com/senseiyt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="110" alt="senseiyt" /></a></p><br><br>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
@@ -61,5 +63,11 @@
 <div align="left">
   <img src="https://profile-counter.glitch.me/A/count.svg?"  />
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
