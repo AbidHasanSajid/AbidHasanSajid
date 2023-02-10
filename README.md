@@ -43,7 +43,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbidHasanSajid&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbidHasanSajid&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 
@@ -53,19 +53,7 @@
 <p><a href="https://ko-fi.com/senseiyt"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="110" alt="senseiyt" /></a></p><br><br>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
-
-
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/A/count.svg?"  />
-</div>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
