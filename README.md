@@ -49,8 +49,8 @@
 
 
 
-<h3 align="left">Support</h3>
-<p><a href="https://ko-fi.com/senseiyt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="110" alt="senseiyt" /></a></p><br><br>
+<h3 align="center">Support</h3>
+<p><a href="https://ko-fi.com/senseiyt"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="110" alt="senseiyt" /></a></p><br><br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
