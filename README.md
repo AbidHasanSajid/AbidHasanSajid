@@ -2,7 +2,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on Website(HTML), Discord bots.<br>👯 I’m looking to collaborate on Otaku!!<br>🤝 I’m looking for help with my friends and other people.<br>🌱 I’m currently learning Java,Html,python!<br>💬 Ask me about  any help.<br>⚡ Fun fact  I love Hentai.
+🔭 I’m currently working on Website(HTML), Discord bots.<br>👯 I’m looking to collaborate on Otaku!!<br>🤝 I’m looking for help with my friends and other people.<br>🌱 I’m currently learning Java,Html,python!<br>💬 Ask me about  any help.<br>⚡ Fun fact  I love Anime.
 
 
 ## 🌐 Socials:
