@@ -37,7 +37,7 @@
 
 ### 👑 Discord ID:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/871429627292315688)](https://discord.com/users/698131338846404609)
+[![Discord Presence](https://lanyard.cnrad.dev/api/698131338846404609)](https://discord.com/users/698131338846404609)
 
 
 
